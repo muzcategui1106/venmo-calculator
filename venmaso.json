@@ -1,0 +1,31 @@
+{
+  "subTotal": 69,
+  "tax" : 4.75,
+  "tip" : 13,
+  "items" : {
+    "cafe": [3, 12],
+    "fritata" : [1, 13],
+    "stake" : [1, 17],
+    "chorizo_hash" : [1, 12],
+    "benedict" : [1, 11.00],
+    "chorizo_side" : [1, 4]
+  },
+  "people":{
+    "miguel": {
+      "cafe" : 1,
+      "stake" : 1
+    },
+    "peter": {
+      "cafe" : 1,
+      "benedict" : 1
+    },
+    "santi" : {
+      "cafe" : 1,
+      "chorizo_side" : 1,
+      "fritata" : 1
+    },
+    "michelle" : {
+      "chorizo_hash" : 1
+    }
+  }
+}
